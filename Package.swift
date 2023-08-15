@@ -12,9 +12,6 @@ let package = Package(
         .target(
             name: "SPMFileCacheBug",
             plugins: [.plugin(name: "VerifyFileList")]),
-        .testTarget(
-            name: "SPMFileCacheBugTests",
-            dependencies: ["SPMFileCacheBug"]),
         .plugin(name: "VerifyFileList", capability: .buildTool())
     ]
 )
