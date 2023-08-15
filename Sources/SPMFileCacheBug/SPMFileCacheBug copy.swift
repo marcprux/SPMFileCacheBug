@@ -1,3 +1,0 @@
-
-fileprivate struct SomeType {
-}
