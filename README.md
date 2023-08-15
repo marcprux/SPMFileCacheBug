@@ -67,3 +67,4 @@ public struct VerifyFileListPlugIn: BuildToolPlugin {
 
 
 
+<img width="1320" alt="Screenshot 2023-08-15 at 13 43 06" src="https://github.com/marcprux/SPMFileCacheBug/assets/659086/77036642-f4d2-42ba-a780-ee2c7608411a">
